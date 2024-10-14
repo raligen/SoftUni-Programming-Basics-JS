@@ -1,2 +1,2 @@
 # SoftUni-Programming-Basics-JS
-Homework and Additional exercises
+This is a directory where I will be committing my homework and additional exercises from the SoftUni's course.
